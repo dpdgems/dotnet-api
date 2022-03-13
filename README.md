@@ -1,2 +1,2 @@
-# example-dotnet-api
- Example .NET Web API
+# Dotnet-API
+ Example .NET Web API using Entity Framework Core and MySQL Database
