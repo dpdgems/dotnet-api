@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Gems\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Gems\\.nuget\\packages"
+    ]
+  }
+}
